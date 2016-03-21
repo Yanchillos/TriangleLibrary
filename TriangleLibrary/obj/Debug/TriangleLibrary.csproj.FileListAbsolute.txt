@@ -1,0 +1,5 @@
+c:\users\tonya\documents\visual studio 2013\Projects\TriangleLibrary\TriangleLibrary\bin\Debug\TriangleLibrary.dll
+c:\users\tonya\documents\visual studio 2013\Projects\TriangleLibrary\TriangleLibrary\bin\Debug\TriangleLibrary.pdb
+c:\users\tonya\documents\visual studio 2013\Projects\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.csprojResolveAssemblyReference.cache
+c:\users\tonya\documents\visual studio 2013\Projects\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.dll
+c:\users\tonya\documents\visual studio 2013\Projects\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.pdb
